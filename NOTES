@@ -1,0 +1,11 @@
+1:07:27
+=============================
+27:59
+  UML - Entity-Relationship
+rails-erd:
+> rake -T
+> brew install GraphViz
+> rake erd
+> open erd.pdf
+It creates you Entity-Relationship diagram for you
+=============================
